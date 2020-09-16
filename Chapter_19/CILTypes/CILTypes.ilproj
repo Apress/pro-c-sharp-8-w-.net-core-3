@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.IL">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+<MicrosoftNetCoreIlasmPackageVersion>3.0.0-preview1-27101-02</MicrosoftNetCoreIlasmPackageVersion>
+  </PropertyGroup>
+
+</Project>

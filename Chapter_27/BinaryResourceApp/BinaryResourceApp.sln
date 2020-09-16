@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryResourceApp", "BinaryResourceApp\BinaryResourceApp.csproj", "{BA90470C-955C-456C-BFD7-2954829E5C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA90470C-955C-456C-BFD7-2954829E5C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA90470C-955C-456C-BFD7-2954829E5C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA90470C-955C-456C-BFD7-2954829E5C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA90470C-955C-456C-BFD7-2954829E5C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC15FCFC-D571-4C18-B47A-877642D3F629}
+	EndGlobalSection
+EndGlobal

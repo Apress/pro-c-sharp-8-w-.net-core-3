@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqRetValues", "LinqRetValues\LinqRetValues.csproj", "{E2C2992B-C9A5-43D8-84B4-6CBF19C90084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C2992B-C9A5-43D8-84B4-6CBF19C90084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C2992B-C9A5-43D8-84B4-6CBF19C90084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C2992B-C9A5-43D8-84B4-6CBF19C90084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C2992B-C9A5-43D8-84B4-6CBF19C90084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D80A71-C295-479C-AE96-23FE6B5A122F}
+	EndGlobalSection
+EndGlobal

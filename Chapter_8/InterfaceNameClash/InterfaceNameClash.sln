@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceNameClash", "InterfaceNameClash\InterfaceNameClash.csproj", "{17C67913-923E-46B6-B3CE-72B5441B25A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C67913-923E-46B6-B3CE-72B5441B25A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C67913-923E-46B6-B3CE-72B5441B25A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C67913-923E-46B6-B3CE-72B5441B25A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C67913-923E-46B6-B3CE-72B5441B25A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90728B26-BED5-4FE9-8CC3-E85CEE83B2B2}
+	EndGlobalSection
+EndGlobal

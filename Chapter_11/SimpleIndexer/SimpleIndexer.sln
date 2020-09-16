@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIndexer", "SimpleIndexer\SimpleIndexer.csproj", "{546E3149-70F5-43E2-8EA4-E636C0F4FB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546E3149-70F5-43E2-8EA4-E636C0F4FB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546E3149-70F5-43E2-8EA4-E636C0F4FB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546E3149-70F5-43E2-8EA4-E636C0F4FB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546E3149-70F5-43E2-8EA4-E636C0F4FB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90168EF-873D-4969-B04D-74C14C2F37F0}
+	EndGlobalSection
+EndGlobal

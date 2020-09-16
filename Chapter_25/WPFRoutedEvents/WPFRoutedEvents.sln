@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFRoutedEvents", "WPFRoutedEvents\WPFRoutedEvents.csproj", "{F133FD0B-0F42-42DC-8302-9BF0DCF4E9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F133FD0B-0F42-42DC-8302-9BF0DCF4E9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F133FD0B-0F42-42DC-8302-9BF0DCF4E9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F133FD0B-0F42-42DC-8302-9BF0DCF4E9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F133FD0B-0F42-42DC-8302-9BF0DCF4E9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1F154-ECEA-48D1-8B6D-6FE676038155}
+	EndGlobalSection
+EndGlobal

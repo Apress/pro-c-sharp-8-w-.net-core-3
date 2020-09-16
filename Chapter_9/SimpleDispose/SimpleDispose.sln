@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDispose", "SimpleDispose\SimpleDispose.csproj", "{D75D1005-8CCC-48D0-98E1-D0EDB2146270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75D1005-8CCC-48D0-98E1-D0EDB2146270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75D1005-8CCC-48D0-98E1-D0EDB2146270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75D1005-8CCC-48D0-98E1-D0EDB2146270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75D1005-8CCC-48D0-98E1-D0EDB2146270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0C781D-05BA-43E9-9673-333A6EDFCBC1}
+	EndGlobalSection
+EndGlobal

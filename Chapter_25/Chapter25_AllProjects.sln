@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30509.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomDependencyProperty", "CustomDependencyProperty\CustomDependencyProperty\CustomDependencyProperty.csproj", "{3EB92558-BF55-4615-B41B-AC38E5358113}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWordPad", "MyWordPad\MyWordPad\MyWordPad.csproj", "{119051C1-9B05-4532-925B-60E2614F4C1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualLayoutTester", "VisualLayoutTester\VisualLayoutTester\VisualLayoutTester.csproj", "{076B7F69-98D8-4049-B638-E70D92105892}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfControlsAndAPIs", "WpfControlsAndAPIs\WpfControlsAndAPIs\WpfControlsAndAPIs.csproj", "{D153CC60-1688-44AD-8E2A-776CA55F4B73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Dal.Models", "WpfControlsAndAPIs\AutoLot.Dal.Models\AutoLot.Dal.Models.csproj", "{765FD0BF-8499-4123-8AE1-3ABEE51144E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Dal", "WpfControlsAndAPIs\AutoLot.Dal\AutoLot.Dal.csproj", "{B013333D-A6C0-45C6-B710-6BAA0ED705C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFRoutedEvents", "WPFRoutedEvents\WPFRoutedEvents\WPFRoutedEvents.csproj", "{7D26546D-3CB7-4E64-8674-0D199A2AB0C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB92558-BF55-4615-B41B-AC38E5358113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB92558-BF55-4615-B41B-AC38E5358113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB92558-BF55-4615-B41B-AC38E5358113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB92558-BF55-4615-B41B-AC38E5358113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119051C1-9B05-4532-925B-60E2614F4C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119051C1-9B05-4532-925B-60E2614F4C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119051C1-9B05-4532-925B-60E2614F4C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119051C1-9B05-4532-925B-60E2614F4C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076B7F69-98D8-4049-B638-E70D92105892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076B7F69-98D8-4049-B638-E70D92105892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076B7F69-98D8-4049-B638-E70D92105892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076B7F69-98D8-4049-B638-E70D92105892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D153CC60-1688-44AD-8E2A-776CA55F4B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D153CC60-1688-44AD-8E2A-776CA55F4B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D153CC60-1688-44AD-8E2A-776CA55F4B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D153CC60-1688-44AD-8E2A-776CA55F4B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765FD0BF-8499-4123-8AE1-3ABEE51144E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765FD0BF-8499-4123-8AE1-3ABEE51144E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765FD0BF-8499-4123-8AE1-3ABEE51144E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765FD0BF-8499-4123-8AE1-3ABEE51144E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B013333D-A6C0-45C6-B710-6BAA0ED705C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B013333D-A6C0-45C6-B710-6BAA0ED705C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B013333D-A6C0-45C6-B710-6BAA0ED705C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B013333D-A6C0-45C6-B710-6BAA0ED705C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D26546D-3CB7-4E64-8674-0D199A2AB0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D26546D-3CB7-4E64-8674-0D199A2AB0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D26546D-3CB7-4E64-8674-0D199A2AB0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D26546D-3CB7-4E64-8674-0D199A2AB0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14885A4-FA2F-4334-915C-D113A2A563D1}
+	EndGlobalSection
+EndGlobal

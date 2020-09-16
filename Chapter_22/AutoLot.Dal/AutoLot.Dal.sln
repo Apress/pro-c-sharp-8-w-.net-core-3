@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Dal", "AutoLot.Dal\AutoLot.Dal.csproj", "{4AEC86A7-A797-442E-BE79-2F47A34E8C91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{DA2172D0-1DE9-4AB9-A2A6-01D44B98E83B}"
+	ProjectSection(SolutionItems) = preProject
+		Migrations.txt = Migrations.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLot.Dal.Models", "AutoLot.Dal.Models\AutoLot.Dal.Models.csproj", "{922BFC2D-0E13-4240-AFA8-686BEBA62193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEC86A7-A797-442E-BE79-2F47A34E8C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEC86A7-A797-442E-BE79-2F47A34E8C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEC86A7-A797-442E-BE79-2F47A34E8C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEC86A7-A797-442E-BE79-2F47A34E8C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922BFC2D-0E13-4240-AFA8-686BEBA62193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922BFC2D-0E13-4240-AFA8-686BEBA62193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922BFC2D-0E13-4240-AFA8-686BEBA62193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922BFC2D-0E13-4240-AFA8-686BEBA62193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688D6443-0249-401B-9345-7367AC02CAE3}
+	EndGlobalSection
+EndGlobal

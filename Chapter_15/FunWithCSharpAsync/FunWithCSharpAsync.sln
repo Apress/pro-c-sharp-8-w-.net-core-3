@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithCSharpAsync", "FunWithCSharpAsync\FunWithCSharpAsync.csproj", "{690951C8-1FDF-4625-84BD-E56D5D4870EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureHandlerWithAsyncAwait", "PictureHandlerWithAsyncAwait\PictureHandlerWithAsyncAwait.csproj", "{FB7480E6-ADC0-4DFD-84BF-F9490DDFB4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690951C8-1FDF-4625-84BD-E56D5D4870EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690951C8-1FDF-4625-84BD-E56D5D4870EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690951C8-1FDF-4625-84BD-E56D5D4870EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690951C8-1FDF-4625-84BD-E56D5D4870EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7480E6-ADC0-4DFD-84BF-F9490DDFB4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7480E6-ADC0-4DFD-84BF-F9490DDFB4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7480E6-ADC0-4DFD-84BF-F9490DDFB4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7480E6-ADC0-4DFD-84BF-F9490DDFB4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A850E53A-374A-4623-81BF-E185E7BD4257}
+	EndGlobalSection
+EndGlobal

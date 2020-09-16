@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkAssemblyViewer", "FrameworkAssemblyViewer\FrameworkAssemblyViewer.csproj", "{5E0441F9-0B75-45A8-A322-81C178A8335F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0441F9-0B75-45A8-A322-81C178A8335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0441F9-0B75-45A8-A322-81C178A8335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0441F9-0B75-45A8-A322-81C178A8335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0441F9-0B75-45A8-A322-81C178A8335F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37EAB60-6452-4FAE-A1F0-73C66AB0FEEB}
+	EndGlobalSection
+EndGlobal

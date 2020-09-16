@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30509.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryResourceApp", "BinaryResourceApp\BinaryResourceApp\BinaryResourceApp.csproj", "{BB310945-9CD0-4096-A89D-30D985DEF44D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ButtonTemplate", "ButtonTemplate\ButtonTemplate\ButtonTemplate.csproj", "{B9195A44-F9FE-4101-A456-93FC12526B28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectResourcesApp", "ObjectResourcesApp\ObjectResourcesApp\ObjectResourcesApp.csproj", "{4E977380-F67D-46DC-8C6E-2EB843C89332}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBrushesLibrary", "ObjectResourcesApp\MyBrushesLibrary\MyBrushesLibrary.csproj", "{FB320A85-4A18-42A0-9AA7-2F79D39653CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpinningButtonAnimationApp", "SpinningButtonAnimationApp\SpinningButtonAnimationApp\SpinningButtonAnimationApp.csproj", "{C6C32CD3-A7BD-4FB9-8C70-9453B41D94CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreesAndTemplatesApp", "TreesAndTemplatesApp\TreesAndTemplatesApp\TreesAndTemplatesApp.csproj", "{41EEB9C4-2000-4CCB-A053-3502A9465B00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfStyles", "WpfStyles\WpfStyles\WpfStyles.csproj", "{E88FA0E5-4E62-4845-9C62-59D58B163205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB310945-9CD0-4096-A89D-30D985DEF44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB310945-9CD0-4096-A89D-30D985DEF44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB310945-9CD0-4096-A89D-30D985DEF44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB310945-9CD0-4096-A89D-30D985DEF44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9195A44-F9FE-4101-A456-93FC12526B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9195A44-F9FE-4101-A456-93FC12526B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9195A44-F9FE-4101-A456-93FC12526B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9195A44-F9FE-4101-A456-93FC12526B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E977380-F67D-46DC-8C6E-2EB843C89332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E977380-F67D-46DC-8C6E-2EB843C89332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E977380-F67D-46DC-8C6E-2EB843C89332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E977380-F67D-46DC-8C6E-2EB843C89332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB320A85-4A18-42A0-9AA7-2F79D39653CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB320A85-4A18-42A0-9AA7-2F79D39653CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB320A85-4A18-42A0-9AA7-2F79D39653CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB320A85-4A18-42A0-9AA7-2F79D39653CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C32CD3-A7BD-4FB9-8C70-9453B41D94CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C32CD3-A7BD-4FB9-8C70-9453B41D94CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C32CD3-A7BD-4FB9-8C70-9453B41D94CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C32CD3-A7BD-4FB9-8C70-9453B41D94CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EEB9C4-2000-4CCB-A053-3502A9465B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EEB9C4-2000-4CCB-A053-3502A9465B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EEB9C4-2000-4CCB-A053-3502A9465B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EEB9C4-2000-4CCB-A053-3502A9465B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88FA0E5-4E62-4845-9C62-59D58B163205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88FA0E5-4E62-4845-9C62-59D58B163205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88FA0E5-4E62-4845-9C62-59D58B163205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88FA0E5-4E62-4845-9C62-59D58B163205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14885A4-FA2F-4334-915C-D113A2A563D1}
+	EndGlobalSection
+EndGlobal
