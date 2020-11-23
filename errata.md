@@ -48,13 +48,25 @@ It should read:
 
 **Chapter 23**
 
-On **page 865** the code following the paragraph that begins "Another constructor takes an instance..." should read like this:
+[On **page 865** the code following the paragraph that begins with "Another constructor takes an instance..." should read like this:]
 
 private readonly bool _disposeContext;
 protected BaseRepo(DbContextOptions<ApplicationDbContext> options)
  : this(new ApplicationDbContext(options)) {
   _disposeContext = true;
 }
+ 
+ 
+ [On **page 869** there is a typo in the paragraph in the listing that appears under Entity-Specific Repo Interfaces.]
+
+IMakeIRepo.cs   
+
+should read:
+
+IMakeRepo.cs
+
+(Thank you to Herbert Feichtingerfor reporting this typo)
+
 
 **Chapter 25**
 
