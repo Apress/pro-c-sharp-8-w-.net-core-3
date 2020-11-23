@@ -24,6 +24,13 @@ It should read like this:
 
 Note Creating solutions and projects can also be accomplished using the .NET Core CLI. For example, to create a new solution, enter dotnet new sln -n SimpleCSharpConsoleApp. To create a new .NET Core C# Console application, enter dotnet new console -lang C# -n SimpleCSharpConsoleApp. To add the new console app to the solution, enter dotnet sln add SimpleCSharpConsoleApp. This is just a small sample of what the CLI is capable of. To discover everything the CLI can do, enter dotnet -h
 
+**Chapter 3** 
+
+[On page 52 in the section that begins with “The following output shows…”, the following sentence should be removed:] 
+
+"Of course, if you did not specify command-line arguments via the Visual Studio Debug tab, you will not find them printed to the console."
+
+
 **Chapter 22**
 
 [On **page 836** in the last paragraph that begins with "Delete the Data and Reseed..." there is a typo.] 
