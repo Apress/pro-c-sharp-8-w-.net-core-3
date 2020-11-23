@@ -26,7 +26,7 @@ Note Creating solutions and projects can also be accomplished using the .NET Cor
 
 **Chapter 3** 
 
-[On page 52 in the section that begins with “The following output shows…”, the following sentence should be removed:] 
+[On **page 52** in the section that begins with “The following output shows…”, the following sentence should be removed:] 
 
 "Of course, if you did not specify command-line arguments via the Visual Studio Debug tab, you will not find them printed to the console."
 
