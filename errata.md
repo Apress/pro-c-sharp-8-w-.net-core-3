@@ -24,6 +24,19 @@ It should read like this:
 
 Note Creating solutions and projects can also be accomplished using the .NET Core CLI. For example, to create a new solution, enter dotnet new sln -n SimpleCSharpConsoleApp. To create a new .NET Core C# Console application, enter dotnet new console -lang C# -n SimpleCSharpConsoleApp. To add the new console app to the solution, enter dotnet sln add SimpleCSharpConsoleApp. This is just a small sample of what the CLI is capable of. To discover everything the CLI can do, enter dotnet -h
 
+**Chapter 22**
+
+[On **page 836** in the last paragraph that begins with "Delete the Data and Reseed..." there is a typo.] 
+
+Instead of:
+
+"Open the StoreDataInitializer.cs class"
+
+It should read: 
+
+"Open the SampleDataInitializer.cs class"
+
+
 **Chapter 23**
 
 On **page 865** the code following the paragraph that begins "Another constructor takes an instance..." should read like this:
