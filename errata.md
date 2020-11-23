@@ -24,6 +24,16 @@ It should read like this:
 
 Note Creating solutions and projects can also be accomplished using the .NET Core CLI. For example, to create a new solution, enter dotnet new sln -n SimpleCSharpConsoleApp. To create a new .NET Core C# Console application, enter dotnet new console -lang C# -n SimpleCSharpConsoleApp. To add the new console app to the solution, enter dotnet sln add SimpleCSharpConsoleApp. This is just a small sample of what the CLI is capable of. To discover everything the CLI can do, enter dotnet -h
 
+**Chapter 23**
+
+On **page 865** the code following the paragraph that begins "Another constructor takes an instance..." should read like this:
+
+private readonly bool _disposeContext;
+protected BaseRepo(DbContextOptions<ApplicationDbContext> options)
+ : this(new ApplicationDbContext(options)) {
+  _disposeContext = true;
+}
+
 **Chapter 25**
 
 [On **page 943** the “Note” indicates that a much deeper look at commands is in chapter 30. It should be chapter 28.] 
