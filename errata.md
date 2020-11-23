@@ -30,6 +30,8 @@ Note Creating solutions and projects can also be accomplished using the .NET Cor
 
 "Of course, if you did not specify command-line arguments via the Visual Studio Debug tab, you will not find them printed to the console."
 
+(Thank you to Mehmet Kaya for reporting)
+
 
 **Chapter 22**
 
