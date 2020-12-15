@@ -45,6 +45,18 @@ It should read:
 
 "Open the SampleDataInitializer.cs class"
 
+[On **page 836** there is a typo in the last paragraph.] 
+
+Instead of: 
+
+“DBCC ChecIdent"
+
+It should read:
+
+"DBCC CheckIdent"
+
+(Thank you to Herbert Feichtinger for reporting this typo)
+
 
 **Chapter 23**
 
