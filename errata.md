@@ -107,7 +107,7 @@ should read:
 
 IMakeRepo.cs
 
-(Thank you to Herbert Feichtingerfor reporting this typo)
+(Thank you to Herbert Feichtinger for reporting this typo)
 
 
 **Chapter 25**
