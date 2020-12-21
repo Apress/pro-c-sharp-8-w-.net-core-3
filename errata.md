@@ -35,6 +35,19 @@ Note Creating solutions and projects can also be accomplished using the .NET Cor
 
 **Chapter 22**
 
+[On page **828** a reader asked, “When adding the Make entity, why does OnModelCreating() method  not contain a definition for the relation between  Inventory and Makes table? It's either per convention or because entity.HasQueryFilter(c => c.MakeId == MakeId); automatically defines it.”]
+
+The response is:
+
+It's defined on the models themselves, and therefore doesn't need to be in the onmodelcreating. You only need to define a relationship in the onmodelcreating if you choose not to define the navigation properties on the models or if you need to alter the cascade behavior. We will make that more apparent in the next edition.
+
+  [InverseProperty(nameof(Make.Cars))]
+  public Make MakeNavigation { get; set; }
+
+  [InverseProperty(nameof(Car.MakeNavigation))]
+  public IEnumerable<Car> Cars { get; set; } = new List<Car>();
+
+
 [On **page 836** in the last paragraph that begins with "Delete the Data and Reseed..." there is a typo.] 
 
 Instead of:
