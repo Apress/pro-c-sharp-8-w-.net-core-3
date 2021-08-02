@@ -16,8 +16,8 @@ applications can generally be built with C#, Visual Basic, and F#.
 
 (Thank you to Patrick Lanz for reporting this errata)
 
-**Chapter 2**
-
+**Chapter 2**  
+  
 [On **page 31** the "note" has an error.]
 
 It should read like this:
@@ -32,7 +32,24 @@ Note Creating solutions and projects can also be accomplished using the .NET Cor
 
 (Thank you to Mehmet Kaya for reporting)
 
+**Chapter 21**  
+  
+[On page **779** the order of the properties in the Car class must match the order of the columns in the Inventory table for Bulk Copy to work properly. Note: This was rearchitected for the C# 9 book and doesn't apply after the C# 8 edition.]
 
+```
+  namespace AutoLot.DAL.Models  
+  {  
+      public class Car  
+      {  
+          public int Id { get; set; }  
+          public string Make { get; set; }  
+          public string Color { get; set; }  
+          public string PetName { get; set; }  
+      }  
+  }  
+```
+(thank you https://github.com/rodgerWithAD for point it out)  
+  
 **Chapter 22**
 
 [On page **828** a reader asked, “When adding the Make entity, why does OnModelCreating() method  not contain a definition for the relation between  Inventory and Makes table? It's either per convention or because entity.HasQueryFilter(c => c.MakeId == MakeId); automatically defines it.”]
